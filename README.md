@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Daribol
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning to be a C# developer
+- 📫 How to reach me: darin_bolgurov@abv.bg

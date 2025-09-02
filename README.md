@@ -1,6 +1,8 @@
+<div align="center">
+    
 # Hi there 👋, I'm Daribol
 
-💻 Coding with C# & .NET  
+💻 C# Junior Developer in progress  
 🔧 Building useful apps with clean design  
 🚀 Turning ideas into working software  
 
@@ -44,5 +46,6 @@ Here are some of my certifications:
 
 ## 📫 Contact  
 
-- ✉️ Email: darin.bolgurov03@gmail.com  
-- 🌐 LinkedIn: https://www.linkedin.com/in/darin-bolgurov-168910341    
+✉️ Email: darin.bolgurov03@gmail.com  
+🌐 LinkedIn: https://www.linkedin.com/in/darin-bolgurov-168910341    
+</div>
